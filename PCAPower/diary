@@ -1,0 +1,4 @@
+diary(satelliteOutput.txt)
+{Undefined variable "satelliteOutput" or class "satelliteOutput.txt".
+} 
+diary('satelliteOutput.txt')
