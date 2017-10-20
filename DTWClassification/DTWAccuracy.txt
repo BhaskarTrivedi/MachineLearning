@@ -1,0 +1,1117 @@
+dtw_classify('asl_training.txt','asl_test.txt')
+ID=    1, predicted=434, true=  1, accuracy=0.00, distance = 1.29
+ID=    2, predicted=269, true=  2, accuracy=0.00, distance = 1.04
+ID=    3, predicted=1382, true=  3, accuracy=0.00, distance = 1.49
+ID=    4, predicted=1382, true=  4, accuracy=0.00, distance = 1.44
+ID=    5, predicted=1007, true=  5, accuracy=0.00, distance = 1.55
+ID=    6, predicted=1020, true=  6, accuracy=0.00, distance = 1.26
+ID=    7, predicted=774, true=  7, accuracy=0.00, distance = 1.07
+ID=    8, predicted=1517, true=  8, accuracy=0.00, distance = 0.66
+ID=    9, predicted=1382, true=  9, accuracy=0.00, distance = 0.56
+ID=   10, predicted=1007, true= 10, accuracy=0.00, distance = 2.04
+ID=   11, predicted=271, true= 11, accuracy=0.00, distance = 1.61
+ID=   12, predicted=268, true= 12, accuracy=0.00, distance = 0.55
+ID=   13, predicted=269, true= 13, accuracy=0.00, distance = 0.35
+ID=   14, predicted=1382, true= 14, accuracy=0.00, distance = 0.66
+ID=   15, predicted=1382, true= 15, accuracy=0.00, distance = 0.78
+ID=   16, predicted=269, true= 18, accuracy=0.00, distance = 1.79
+ID=   17, predicted=536, true= 20, accuracy=0.00, distance = 1.96
+ID=   18, predicted=1289, true= 22, accuracy=0.00, distance = 2.41
+ID=   19, predicted=1630, true= 24, accuracy=0.00, distance = 1.19
+ID=   20, predicted=1047, true= 25, accuracy=0.00, distance = 1.25
+ID=   21, predicted=206, true= 26, accuracy=0.00, distance = 0.93
+ID=   22, predicted=1517, true= 27, accuracy=0.00, distance = 0.55
+ID=   23, predicted=1099, true= 28, accuracy=0.00, distance = 0.97
+ID=   24, predicted=1238, true= 29, accuracy=0.00, distance = 1.03
+ID=   25, predicted=1027, true= 30, accuracy=0.00, distance = 5.40
+ID=   26, predicted=662, true= 31, accuracy=0.00, distance = 4.34
+ID=   27, predicted=905, true= 32, accuracy=0.00, distance = 5.51
+ID=   28, predicted=939, true= 35, accuracy=0.00, distance = 2.30
+ID=   29, predicted= 36, true= 36, accuracy=1.00, distance = 2.12
+ID=   30, predicted=827, true= 39, accuracy=0.00, distance = 2.49
+ID=   31, predicted=1387, true= 40, accuracy=0.00, distance = 2.33
+ID=   32, predicted=744, true= 41, accuracy=0.00, distance = 3.72
+ID=   33, predicted=1318, true= 42, accuracy=0.00, distance = 5.49
+ID=   34, predicted=234, true= 43, accuracy=0.00, distance = 6.25
+ID=   35, predicted=639, true= 44, accuracy=0.00, distance = 4.79
+ID=   36, predicted= 67, true= 47, accuracy=0.00, distance = 3.92
+ID=   37, predicted=1099, true= 48, accuracy=0.00, distance = 0.66
+ID=   38, predicted=1204, true= 50, accuracy=0.00, distance = 2.12
+ID=   39, predicted=439, true= 51, accuracy=0.00, distance = 6.56
+ID=   40, predicted=260, true= 53, accuracy=0.00, distance = 1.25
+ID=   41, predicted=260, true= 54, accuracy=0.00, distance = 1.82
+ID=   42, predicted=1101, true= 55, accuracy=0.00, distance = 5.66
+ID=   43, predicted=1395, true= 56, accuracy=0.00, distance = 2.48
+ID=   44, predicted= 58, true= 58, accuracy=1.00, distance = 6.28
+ID=   45, predicted=1225, true= 61, accuracy=0.00, distance = 2.47
+ID=   46, predicted=1252, true= 62, accuracy=0.00, distance = 2.52
+ID=   47, predicted=1478, true= 63, accuracy=0.00, distance = 2.16
+ID=   48, predicted=1013, true= 64, accuracy=0.00, distance = 8.67
+ID=   49, predicted=755, true= 65, accuracy=0.00, distance = 2.15
+ID=   50, predicted=422, true= 67, accuracy=0.00, distance = 2.60
+ID=   51, predicted=1019, true= 69, accuracy=0.00, distance = 5.84
+ID=   52, predicted=992, true= 72, accuracy=0.00, distance = 2.58
+ID=   53, predicted=1594, true= 73, accuracy=0.00, distance = 3.53
+ID=   54, predicted=141, true= 74, accuracy=0.00, distance = 5.39
+ID=   55, predicted=747, true= 75, accuracy=0.00, distance = 12.79
+ID=   56, predicted=970, true= 76, accuracy=0.00, distance = 2.48
+ID=   57, predicted=1412, true= 78, accuracy=0.00, distance = 2.29
+ID=   58, predicted=1289, true= 79, accuracy=0.00, distance = 4.83
+ID=   59, predicted=694, true= 80, accuracy=0.00, distance = 6.31
+ID=   60, predicted=1558, true= 81, accuracy=0.00, distance = 1.48
+ID=   61, predicted=603, true= 82, accuracy=0.00, distance = 0.86
+ID=   62, predicted= 98, true= 83, accuracy=0.00, distance = 4.36
+ID=   63, predicted=1020, true= 84, accuracy=0.00, distance = 1.55
+ID=   64, predicted=790, true= 85, accuracy=0.00, distance = 6.80
+ID=   65, predicted=1566, true= 87, accuracy=0.00, distance = 3.99
+ID=   66, predicted=519, true= 90, accuracy=0.00, distance = 2.48
+ID=   67, predicted=1121, true= 92, accuracy=0.00, distance = 2.48
+ID=   68, predicted=169, true= 93, accuracy=0.00, distance = 9.75
+ID=   69, predicted=674, true= 94, accuracy=0.00, distance = 1.72
+ID=   70, predicted=1145, true= 95, accuracy=0.00, distance = 6.45
+ID=   71, predicted=868, true= 96, accuracy=0.00, distance = 3.04
+ID=   72, predicted=250, true= 97, accuracy=0.00, distance = 2.80
+ID=   73, predicted=1543, true= 98, accuracy=0.00, distance = 3.49
+ID=   74, predicted=127, true= 99, accuracy=0.00, distance = 1.95
+ID=   75, predicted=748, true=100, accuracy=0.00, distance = 2.07
+ID=   76, predicted=748, true=101, accuracy=0.00, distance = 3.25
+ID=   77, predicted=674, true=102, accuracy=0.00, distance = 2.18
+ID=   78, predicted=245, true=103, accuracy=0.00, distance = 5.31
+ID=   79, predicted=632, true=104, accuracy=0.00, distance = 1.69
+ID=   80, predicted=1195, true=105, accuracy=0.00, distance = 1.12
+ID=   81, predicted=391, true=106, accuracy=0.00, distance = 1.23
+ID=   82, predicted=1540, true=108, accuracy=0.00, distance = 2.31
+ID=   83, predicted=500, true=110, accuracy=0.00, distance = 2.38
+ID=   84, predicted=1430, true=112, accuracy=0.00, distance = 5.50
+ID=   85, predicted=558, true=113, accuracy=0.00, distance = 1.72
+ID=   86, predicted=186, true=114, accuracy=0.00, distance = 3.24
+ID=   87, predicted=1234, true=115, accuracy=0.00, distance = 2.12
+ID=   88, predicted=116, true=116, accuracy=1.00, distance = 2.84
+ID=   89, predicted=213, true=117, accuracy=0.00, distance = 2.12
+ID=   90, predicted=1230, true=118, accuracy=0.00, distance = 7.95
+ID=   91, predicted=157, true=120, accuracy=0.00, distance = 4.24
+ID=   92, predicted=121, true=121, accuracy=1.00, distance = 5.07
+ID=   93, predicted=213, true=122, accuracy=0.00, distance = 4.13
+ID=   94, predicted=1496, true=123, accuracy=0.00, distance = 2.92
+ID=   95, predicted=128, true=125, accuracy=0.00, distance = 1.94
+ID=   96, predicted=260, true=127, accuracy=0.00, distance = 1.99
+ID=   97, predicted=628, true=128, accuracy=0.00, distance = 3.83
+ID=   98, predicted=653, true=130, accuracy=0.00, distance = 8.33
+ID=   99, predicted=477, true=131, accuracy=0.00, distance = 2.14
+ID=  100, predicted=1003, true=135, accuracy=0.00, distance = 2.69
+ID=  101, predicted=295, true=136, accuracy=0.00, distance = 1.01
+ID=  102, predicted=641, true=137, accuracy=0.00, distance = 1.45
+ID=  103, predicted=1085, true=138, accuracy=0.00, distance = 5.66
+ID=  104, predicted=141, true=141, accuracy=1.00, distance = 1.62
+ID=  105, predicted=260, true=143, accuracy=0.00, distance = 2.18
+ID=  106, predicted=550, true=144, accuracy=0.00, distance = 2.35
+ID=  107, predicted=269, true=145, accuracy=0.00, distance = 1.48
+ID=  108, predicted=308, true=146, accuracy=0.00, distance = 2.47
+ID=  109, predicted=149, true=149, accuracy=1.00, distance = 2.08
+ID=  110, predicted=181, true=150, accuracy=0.00, distance = 2.53
+ID=  111, predicted=1042, true=152, accuracy=0.00, distance = 4.48
+ID=  112, predicted=154, true=154, accuracy=1.00, distance = 1.85
+ID=  113, predicted=1260, true=155, accuracy=0.00, distance = 6.42
+ID=  114, predicted=1412, true=156, accuracy=0.00, distance = 1.22
+ID=  115, predicted= 79, true=157, accuracy=0.00, distance = 4.59
+ID=  116, predicted=1490, true=158, accuracy=0.00, distance = 1.68
+ID=  117, predicted=1227, true=159, accuracy=0.00, distance = 3.74
+ID=  118, predicted=902, true=160, accuracy=0.00, distance = 1.32
+ID=  119, predicted=1472, true=161, accuracy=0.00, distance = 3.41
+ID=  120, predicted=1475, true=162, accuracy=0.00, distance = 0.35
+ID=  121, predicted=1489, true=163, accuracy=0.00, distance = 6.47
+ID=  122, predicted=364, true=164, accuracy=0.00, distance = 2.74
+ID=  123, predicted=160, true=165, accuracy=0.00, distance = 2.07
+ID=  124, predicted= 84, true=167, accuracy=0.00, distance = 2.68
+ID=  125, predicted=1265, true=168, accuracy=0.00, distance = 2.82
+ID=  126, predicted=169, true=169, accuracy=1.00, distance = 1.60
+ID=  127, predicted=569, true=170, accuracy=0.00, distance = 4.18
+ID=  128, predicted=267, true=172, accuracy=0.00, distance = 2.73
+ID=  129, predicted=1139, true=173, accuracy=0.00, distance = 3.30
+ID=  130, predicted=186, true=174, accuracy=0.00, distance = 3.01
+ID=  131, predicted= 48, true=175, accuracy=0.00, distance = 2.31
+ID=  132, predicted=331, true=178, accuracy=0.00, distance = 2.81
+ID=  133, predicted=305, true=179, accuracy=0.00, distance = 7.94
+ID=  134, predicted=180, true=180, accuracy=1.00, distance = 7.01
+ID=  135, predicted=1517, true=181, accuracy=0.00, distance = 1.72
+ID=  136, predicted=748, true=182, accuracy=0.00, distance = 2.94
+ID=  137, predicted=674, true=183, accuracy=0.00, distance = 2.18
+ID=  138, predicted=403, true=185, accuracy=0.00, distance = 6.76
+ID=  139, predicted=1020, true=186, accuracy=0.00, distance = 1.50
+ID=  140, predicted=188, true=188, accuracy=1.00, distance = 6.34
+ID=  141, predicted=998, true=189, accuracy=0.00, distance = 2.03
+ID=  142, predicted=558, true=191, accuracy=0.00, distance = 1.71
+ID=  143, predicted=1177, true=192, accuracy=0.00, distance = 4.09
+ID=  144, predicted=688, true=193, accuracy=0.00, distance = 5.58
+ID=  145, predicted=1199, true=195, accuracy=0.00, distance = 4.58
+ID=  146, predicted=1304, true=196, accuracy=0.00, distance = 5.01
+ID=  147, predicted=197, true=197, accuracy=1.00, distance = 6.91
+ID=  148, predicted=499, true=198, accuracy=0.00, distance = 2.02
+ID=  149, predicted=308, true=199, accuracy=0.00, distance = 2.21
+ID=  150, predicted=288, true=200, accuracy=0.00, distance = 3.54
+ID=  151, predicted=434, true=204, accuracy=0.00, distance = 1.38
+ID=  152, predicted=308, true=206, accuracy=0.00, distance = 1.36
+ID=  153, predicted=1225, true=207, accuracy=0.00, distance = 1.62
+ID=  154, predicted=210, true=210, accuracy=1.00, distance = 3.27
+ID=  155, predicted=212, true=212, accuracy=1.00, distance = 9.94
+ID=  156, predicted=1517, true=213, accuracy=0.00, distance = 1.36
+ID=  157, predicted=1447, true=214, accuracy=0.00, distance = 4.77
+ID=  158, predicted=215, true=215, accuracy=1.00, distance = 1.65
+ID=  159, predicted=1389, true=216, accuracy=0.00, distance = 5.18
+ID=  160, predicted=638, true=217, accuracy=0.00, distance = 2.03
+ID=  161, predicted=1534, true=221, accuracy=0.00, distance = 1.73
+ID=  162, predicted=351, true=222, accuracy=0.00, distance = 2.10
+ID=  163, predicted=901, true=224, accuracy=0.00, distance = 2.40
+ID=  164, predicted=277, true=225, accuracy=0.00, distance = 7.97
+ID=  165, predicted=432, true=226, accuracy=0.00, distance = 7.19
+ID=  166, predicted=226, true=227, accuracy=0.00, distance = 8.75
+ID=  167, predicted=1098, true=228, accuracy=0.00, distance = 2.96
+ID=  168, predicted=1019, true=234, accuracy=0.00, distance = 5.90
+ID=  169, predicted=296, true=238, accuracy=0.00, distance = 1.52
+ID=  170, predicted=962, true=240, accuracy=0.00, distance = 4.20
+ID=  171, predicted=373, true=241, accuracy=0.00, distance = 6.87
+ID=  172, predicted=182, true=243, accuracy=0.00, distance = 2.32
+ID=  173, predicted=499, true=244, accuracy=0.00, distance = 1.97
+ID=  174, predicted=182, true=245, accuracy=0.00, distance = 1.71
+ID=  175, predicted=1337, true=246, accuracy=0.00, distance = 2.41
+ID=  176, predicted=320, true=247, accuracy=0.00, distance = 4.65
+ID=  177, predicted=760, true=248, accuracy=0.00, distance = 4.03
+ID=  178, predicted=1137, true=249, accuracy=0.00, distance = 5.17
+ID=  179, predicted=1390, true=250, accuracy=0.00, distance = 3.70
+ID=  180, predicted=856, true=254, accuracy=0.00, distance = 10.15
+ID=  181, predicted=1534, true=255, accuracy=0.00, distance = 1.56
+ID=  182, predicted=127, true=258, accuracy=0.00, distance = 1.79
+ID=  183, predicted=961, true=259, accuracy=0.00, distance = 2.57
+ID=  184, predicted=1016, true=260, accuracy=0.00, distance = 1.92
+ID=  185, predicted=261, true=261, accuracy=1.00, distance = 1.45
+ID=  186, predicted=799, true=263, accuracy=0.00, distance = 1.16
+ID=  187, predicted=1163, true=266, accuracy=0.00, distance = 2.80
+ID=  188, predicted=696, true=267, accuracy=0.00, distance = 1.91
+ID=  189, predicted=1090, true=268, accuracy=0.00, distance = 1.83
+ID=  190, predicted=295, true=269, accuracy=0.00, distance = 1.25
+ID=  191, predicted=1063, true=271, accuracy=0.00, distance = 3.25
+ID=  192, predicted=1609, true=272, accuracy=0.00, distance = 1.94
+ID=  193, predicted=274, true=274, accuracy=1.00, distance = 2.55
+ID=  194, predicted=275, true=275, accuracy=1.00, distance = 2.19
+ID=  195, predicted=1009, true=276, accuracy=0.00, distance = 2.78
+ID=  196, predicted=743, true=277, accuracy=0.00, distance = 4.73
+ID=  197, predicted=454, true=278, accuracy=0.00, distance = 2.22
+ID=  198, predicted=280, true=280, accuracy=1.00, distance = 1.21
+ID=  199, predicted=596, true=282, accuracy=0.00, distance = 6.38
+ID=  200, predicted=1630, true=283, accuracy=0.00, distance = 0.98
+ID=  201, predicted=1227, true=285, accuracy=0.00, distance = 3.28
+ID=  202, predicted=1489, true=286, accuracy=0.00, distance = 4.34
+ID=  203, predicted=1158, true=287, accuracy=0.00, distance = 1.76
+ID=  204, predicted=1306, true=288, accuracy=0.00, distance = 5.63
+ID=  205, predicted=1255, true=289, accuracy=0.00, distance = 9.85
+ID=  206, predicted=291, true=291, accuracy=1.00, distance = 2.28
+ID=  207, predicted=1188, true=292, accuracy=0.00, distance = 1.67
+ID=  208, predicted=1517, true=295, accuracy=0.00, distance = 0.77
+ID=  209, predicted=1556, true=296, accuracy=0.00, distance = 1.67
+ID=  210, predicted=113, true=298, accuracy=0.00, distance = 1.69
+ID=  211, predicted=300, true=300, accuracy=1.00, distance = 1.22
+ID=  212, predicted=322, true=301, accuracy=0.00, distance = 6.40
+ID=  213, predicted=1139, true=302, accuracy=0.00, distance = 3.66
+ID=  214, predicted=1358, true=304, accuracy=0.00, distance = 1.61
+ID=  215, predicted=319, true=305, accuracy=0.00, distance = 5.59
+ID=  216, predicted=306, true=306, accuracy=1.00, distance = 4.37
+ID=  217, predicted=308, true=308, accuracy=1.00, distance = 1.85
+ID=  218, predicted=146, true=310, accuracy=0.00, distance = 7.73
+ID=  219, predicted=1011, true=311, accuracy=0.00, distance = 1.60
+ID=  220, predicted=313, true=313, accuracy=1.00, distance = 6.62
+ID=  221, predicted=226, true=315, accuracy=0.00, distance = 11.85
+ID=  222, predicted=370, true=316, accuracy=0.00, distance = 1.14
+ID=  223, predicted=603, true=317, accuracy=0.00, distance = 1.33
+ID=  224, predicted=137, true=318, accuracy=0.00, distance = 2.00
+ID=  225, predicted=108, true=319, accuracy=0.00, distance = 1.78
+ID=  226, predicted=320, true=320, accuracy=1.00, distance = 3.42
+ID=  227, predicted=415, true=321, accuracy=0.00, distance = 4.45
+ID=  228, predicted=705, true=322, accuracy=0.00, distance = 2.31
+ID=  229, predicted=690, true=323, accuracy=0.00, distance = 1.64
+ID=  230, predicted=324, true=324, accuracy=1.00, distance = 2.23
+ID=  231, predicted= 72, true=325, accuracy=0.00, distance = 1.93
+ID=  232, predicted=1515, true=329, accuracy=0.00, distance = 3.47
+ID=  233, predicted=1610, true=330, accuracy=0.00, distance = 2.08
+ID=  234, predicted=296, true=331, accuracy=0.00, distance = 10.63
+ID=  235, predicted=1012, true=332, accuracy=0.00, distance = 3.36
+ID=  236, predicted=333, true=333, accuracy=1.00, distance = 1.25
+ID=  237, predicted=1024, true=334, accuracy=0.00, distance = 10.35
+ID=  238, predicted=820, true=335, accuracy=0.00, distance = 4.55
+ID=  239, predicted=712, true=338, accuracy=0.00, distance = 2.03
+ID=  240, predicted=339, true=339, accuracy=1.00, distance = 8.18
+ID=  241, predicted=181, true=340, accuracy=0.00, distance = 3.99
+ID=  242, predicted=1473, true=342, accuracy=0.00, distance = 1.60
+ID=  243, predicted=1383, true=343, accuracy=0.00, distance = 8.73
+ID=  244, predicted=1383, true=344, accuracy=0.00, distance = 6.61
+ID=  245, predicted=628, true=345, accuracy=0.00, distance = 2.90
+ID=  246, predicted=347, true=347, accuracy=1.00, distance = 1.02
+ID=  247, predicted=358, true=350, accuracy=0.00, distance = 6.59
+ID=  248, predicted=1630, true=351, accuracy=0.00, distance = 2.02
+ID=  249, predicted=426, true=353, accuracy=0.00, distance = 3.80
+ID=  250, predicted=719, true=354, accuracy=0.00, distance = 1.16
+ID=  251, predicted=475, true=355, accuracy=0.00, distance = 1.98
+ID=  252, predicted=191, true=356, accuracy=0.00, distance = 2.70
+ID=  253, predicted=357, true=357, accuracy=1.00, distance = 2.59
+ID=  254, predicted=632, true=358, accuracy=0.00, distance = 2.71
+ID=  255, predicted=1517, true=359, accuracy=0.00, distance = 1.03
+ID=  256, predicted=1452, true=360, accuracy=0.00, distance = 1.81
+ID=  257, predicted=1516, true=362, accuracy=0.00, distance = 2.20
+ID=  258, predicted=266, true=363, accuracy=0.00, distance = 10.18
+ID=  259, predicted=164, true=364, accuracy=0.00, distance = 3.78
+ID=  260, predicted=1619, true=366, accuracy=0.00, distance = 3.47
+ID=  261, predicted= 62, true=368, accuracy=0.00, distance = 2.17
+ID=  262, predicted=997, true=370, accuracy=0.00, distance = 1.16
+ID=  263, predicted=707, true=371, accuracy=0.00, distance = 4.68
+ID=  264, predicted=1463, true=372, accuracy=0.00, distance = 5.27
+ID=  265, predicted=263, true=373, accuracy=0.00, distance = 1.36
+ID=  266, predicted=108, true=374, accuracy=0.00, distance = 1.34
+ID=  267, predicted=1227, true=375, accuracy=0.00, distance = 0.91
+ID=  268, predicted=776, true=378, accuracy=0.00, distance = 1.23
+ID=  269, predicted=1550, true=379, accuracy=0.00, distance = 7.27
+ID=  270, predicted=381, true=381, accuracy=1.00, distance = 19.90
+ID=  271, predicted= 62, true=382, accuracy=0.00, distance = 2.49
+ID=  272, predicted=385, true=385, accuracy=1.00, distance = 1.86
+ID=  273, predicted=1496, true=386, accuracy=0.00, distance = 1.26
+ID=  274, predicted=387, true=387, accuracy=1.00, distance = 7.69
+ID=  275, predicted=388, true=388, accuracy=1.00, distance = 7.07
+ID=  276, predicted=1630, true=391, accuracy=0.00, distance = 1.62
+ID=  277, predicted=1467, true=393, accuracy=0.00, distance = 5.01
+ID=  278, predicted=872, true=396, accuracy=0.00, distance = 2.82
+ID=  279, predicted=398, true=398, accuracy=1.00, distance = 7.09
+ID=  280, predicted=1329, true=399, accuracy=0.00, distance = 3.21
+ID=  281, predicted=968, true=400, accuracy=0.00, distance = 3.00
+ID=  282, predicted=1149, true=401, accuracy=0.00, distance = 8.07
+ID=  283, predicted=1271, true=402, accuracy=0.00, distance = 3.24
+ID=  284, predicted=1492, true=403, accuracy=0.00, distance = 3.16
+ID=  285, predicted=405, true=405, accuracy=1.00, distance = 4.51
+ID=  286, predicted=1517, true=406, accuracy=0.00, distance = 1.85
+ID=  287, predicted=818, true=407, accuracy=0.00, distance = 2.67
+ID=  288, predicted=358, true=408, accuracy=0.00, distance = 5.63
+ID=  289, predicted=892, true=409, accuracy=0.00, distance = 2.81
+ID=  290, predicted=968, true=410, accuracy=0.00, distance = 7.40
+ID=  291, predicted=1615, true=411, accuracy=0.00, distance = 5.27
+ID=  292, predicted=338, true=413, accuracy=0.00, distance = 2.29
+ID=  293, predicted=638, true=414, accuracy=0.00, distance = 3.95
+ID=  294, predicted=519, true=415, accuracy=0.00, distance = 2.76
+ID=  295, predicted=1263, true=417, accuracy=0.00, distance = 2.21
+ID=  296, predicted=419, true=419, accuracy=1.00, distance = 5.61
+ID=  297, predicted=277, true=421, accuracy=0.00, distance = 2.63
+ID=  298, predicted=407, true=422, accuracy=0.00, distance = 2.37
+ID=  299, predicted=661, true=423, accuracy=0.00, distance = 11.66
+ID=  300, predicted=  6, true=424, accuracy=0.00, distance = 4.75
+ID=  301, predicted=421, true=425, accuracy=0.00, distance = 3.73
+ID=  302, predicted=827, true=426, accuracy=0.00, distance = 2.30
+ID=  303, predicted=429, true=429, accuracy=1.00, distance = 3.50
+ID=  304, predicted=1200, true=430, accuracy=0.00, distance = 2.31
+ID=  305, predicted=755, true=431, accuracy=0.00, distance = 4.95
+ID=  306, predicted=822, true=432, accuracy=0.00, distance = 3.72
+ID=  307, predicted=433, true=433, accuracy=1.00, distance = 4.92
+ID=  308, predicted=295, true=434, accuracy=0.00, distance = 0.75
+ID=  309, predicted=1025, true=435, accuracy=0.00, distance = 2.03
+ID=  310, predicted= 90, true=436, accuracy=0.00, distance = 6.49
+ID=  311, predicted=437, true=437, accuracy=1.00, distance = 6.58
+ID=  312, predicted=1525, true=438, accuracy=0.00, distance = 1.88
+ID=  313, predicted=923, true=439, accuracy=0.00, distance = 2.80
+ID=  314, predicted=1587, true=440, accuracy=0.00, distance = 6.39
+ID=  315, predicted=1630, true=441, accuracy=0.00, distance = 2.69
+ID=  316, predicted=653, true=442, accuracy=0.00, distance = 4.39
+ID=  317, predicted=1290, true=446, accuracy=0.00, distance = 1.37
+ID=  318, predicted=447, true=447, accuracy=1.00, distance = 5.02
+ID=  319, predicted= 65, true=449, accuracy=0.00, distance = 2.68
+ID=  320, predicted=452, true=452, accuracy=1.00, distance = 1.36
+ID=  321, predicted=1099, true=453, accuracy=0.00, distance = 1.02
+ID=  322, predicted=1289, true=454, accuracy=0.00, distance = 3.66
+ID=  323, predicted=260, true=458, accuracy=0.00, distance = 2.26
+ID=  324, predicted=1525, true=459, accuracy=0.00, distance = 1.39
+ID=  325, predicted=1384, true=460, accuracy=0.00, distance = 1.88
+ID=  326, predicted=1585, true=461, accuracy=0.00, distance = 5.23
+ID=  327, predicted=1071, true=462, accuracy=0.00, distance = 4.53
+ID=  328, predicted=1025, true=464, accuracy=0.00, distance = 2.62
+ID=  329, predicted=970, true=466, accuracy=0.00, distance = 1.83
+ID=  330, predicted=1566, true=467, accuracy=0.00, distance = 3.78
+ID=  331, predicted=1011, true=468, accuracy=0.00, distance = 1.62
+ID=  332, predicted= 72, true=471, accuracy=0.00, distance = 4.73
+ID=  333, predicted=1526, true=472, accuracy=0.00, distance = 7.84
+ID=  334, predicted= 63, true=473, accuracy=0.00, distance = 2.82
+ID=  335, predicted=474, true=474, accuracy=1.00, distance = 3.89
+ID=  336, predicted=558, true=475, accuracy=0.00, distance = 2.62
+ID=  337, predicted= 72, true=476, accuracy=0.00, distance = 2.96
+ID=  338, predicted=477, true=477, accuracy=1.00, distance = 3.92
+ID=  339, predicted=601, true=478, accuracy=0.00, distance = 4.27
+ID=  340, predicted=169, true=479, accuracy=0.00, distance = 2.18
+ID=  341, predicted=626, true=480, accuracy=0.00, distance = 5.16
+ID=  342, predicted=1276, true=481, accuracy=0.00, distance = 1.96
+ID=  343, predicted=105, true=482, accuracy=0.00, distance = 5.75
+ID=  344, predicted= 65, true=483, accuracy=0.00, distance = 1.89
+ID=  345, predicted=1535, true=484, accuracy=0.00, distance = 1.12
+ID=  346, predicted=485, true=485, accuracy=1.00, distance = 2.64
+ID=  347, predicted=1536, true=487, accuracy=0.00, distance = 2.48
+ID=  348, predicted=1029, true=490, accuracy=0.00, distance = 8.95
+ID=  349, predicted=1613, true=491, accuracy=0.00, distance = 2.93
+ID=  350, predicted=887, true=492, accuracy=0.00, distance = 1.11
+ID=  351, predicted=1573, true=493, accuracy=0.00, distance = 4.28
+ID=  352, predicted=482, true=495, accuracy=0.00, distance = 2.92
+ID=  353, predicted=1376, true=496, accuracy=0.00, distance = 8.23
+ID=  354, predicted=497, true=497, accuracy=1.00, distance = 4.16
+ID=  355, predicted=498, true=498, accuracy=1.00, distance = 4.24
+ID=  356, predicted=1480, true=499, accuracy=0.00, distance = 3.65
+ID=  357, predicted=466, true=500, accuracy=0.00, distance = 6.07
+ID=  358, predicted=586, true=502, accuracy=0.00, distance = 6.12
+ID=  359, predicted= 28, true=504, accuracy=0.00, distance = 2.53
+ID=  360, predicted=1142, true=507, accuracy=0.00, distance = 5.03
+ID=  361, predicted=864, true=508, accuracy=0.00, distance = 3.75
+ID=  362, predicted= 85, true=509, accuracy=0.00, distance = 8.87
+ID=  363, predicted=1274, true=510, accuracy=0.00, distance = 2.27
+ID=  364, predicted=1142, true=511, accuracy=0.00, distance = 1.86
+ID=  365, predicted=512, true=512, accuracy=1.00, distance = 4.69
+ID=  366, predicted=569, true=513, accuracy=0.00, distance = 4.89
+ID=  367, predicted=495, true=515, accuracy=0.00, distance = 2.90
+ID=  368, predicted=516, true=516, accuracy=1.00, distance = 6.48
+ID=  369, predicted=519, true=519, accuracy=1.00, distance = 1.25
+ID=  370, predicted=1615, true=520, accuracy=0.00, distance = 3.96
+ID=  371, predicted=521, true=521, accuracy=1.00, distance = 2.98
+ID=  372, predicted=870, true=523, accuracy=0.00, distance = 10.52
+ID=  373, predicted=170, true=524, accuracy=0.00, distance = 12.69
+ID=  374, predicted=916, true=525, accuracy=0.00, distance = 3.44
+ID=  375, predicted=526, true=526, accuracy=1.00, distance = 2.02
+ID=  376, predicted=351, true=527, accuracy=0.00, distance = 3.18
+ID=  377, predicted=118, true=528, accuracy=0.00, distance = 30.45
+ID=  378, predicted=1136, true=529, accuracy=0.00, distance = 3.76
+ID=  379, predicted=533, true=533, accuracy=1.00, distance = 9.54
+ID=  380, predicted=144, true=535, accuracy=0.00, distance = 1.72
+ID=  381, predicted=862, true=536, accuracy=0.00, distance = 1.51
+ID=  382, predicted= 41, true=537, accuracy=0.00, distance = 3.51
+ID=  383, predicted=1155, true=539, accuracy=0.00, distance = 4.69
+ID=  384, predicted=803, true=540, accuracy=0.00, distance = 4.70
+ID=  385, predicted= 43, true=541, accuracy=0.00, distance = 17.91
+ID=  386, predicted= 61, true=542, accuracy=0.00, distance = 5.01
+ID=  387, predicted=674, true=543, accuracy=0.00, distance = 4.84
+ID=  388, predicted=1622, true=545, accuracy=0.00, distance = 2.37
+ID=  389, predicted=422, true=547, accuracy=0.00, distance = 2.62
+ID=  390, predicted=646, true=548, accuracy=0.00, distance = 4.43
+ID=  391, predicted=1463, true=549, accuracy=0.00, distance = 11.04
+ID=  392, predicted=1210, true=550, accuracy=0.00, distance = 2.85
+ID=  393, predicted=558, true=555, accuracy=0.00, distance = 1.72
+ID=  394, predicted=744, true=557, accuracy=0.00, distance = 13.61
+ID=  395, predicted=146, true=558, accuracy=0.00, distance = 2.36
+ID=  396, predicted=902, true=559, accuracy=0.00, distance = 2.02
+ID=  397, predicted=915, true=560, accuracy=0.00, distance = 11.68
+ID=  398, predicted=105, true=562, accuracy=0.00, distance = 1.30
+ID=  399, predicted= 25, true=563, accuracy=0.00, distance = 1.89
+ID=  400, predicted=1045, true=564, accuracy=0.00, distance = 2.32
+ID=  401, predicted=477, true=565, accuracy=0.00, distance = 3.64
+ID=  402, predicted=512, true=566, accuracy=0.00, distance = 4.33
+ID=  403, predicted=495, true=567, accuracy=0.00, distance = 2.20
+ID=  404, predicted=1260, true=568, accuracy=0.00, distance = 3.73
+ID=  405, predicted=1422, true=569, accuracy=0.00, distance = 5.77
+ID=  406, predicted=520, true=570, accuracy=0.00, distance = 1.95
+ID=  407, predicted=495, true=575, accuracy=0.00, distance = 2.75
+ID=  408, predicted=821, true=576, accuracy=0.00, distance = 7.94
+ID=  409, predicted=330, true=577, accuracy=0.00, distance = 6.07
+ID=  410, predicted=1099, true=578, accuracy=0.00, distance = 3.63
+ID=  411, predicted= 90, true=579, accuracy=0.00, distance = 10.45
+ID=  412, predicted=1106, true=580, accuracy=0.00, distance = 11.16
+ID=  413, predicted=419, true=581, accuracy=0.00, distance = 6.03
+ID=  414, predicted=317, true=586, accuracy=0.00, distance = 3.43
+ID=  415, predicted=379, true=587, accuracy=0.00, distance = 15.96
+ID=  416, predicted=322, true=588, accuracy=0.00, distance = 6.53
+ID=  417, predicted=589, true=589, accuracy=1.00, distance = 5.04
+ID=  418, predicted=721, true=591, accuracy=0.00, distance = 3.45
+ID=  419, predicted=734, true=593, accuracy=0.00, distance = 5.74
+ID=  420, predicted=1025, true=594, accuracy=0.00, distance = 1.49
+ID=  421, predicted=1195, true=595, accuracy=0.00, distance = 6.10
+ID=  422, predicted= 41, true=596, accuracy=0.00, distance = 9.14
+ID=  423, predicted=836, true=598, accuracy=0.00, distance = 4.41
+ID=  424, predicted=1075, true=599, accuracy=0.00, distance = 7.06
+ID=  425, predicted=529, true=600, accuracy=0.00, distance = 4.25
+ID=  426, predicted=849, true=601, accuracy=0.00, distance = 3.67
+ID=  427, predicted=1223, true=602, accuracy=0.00, distance = 0.79
+ID=  428, predicted=1276, true=603, accuracy=0.00, distance = 0.87
+ID=  429, predicted=604, true=604, accuracy=1.00, distance = 13.89
+ID=  430, predicted=269, true=605, accuracy=0.00, distance = 0.66
+ID=  431, predicted=1013, true=607, accuracy=0.00, distance = 2.83
+ID=  432, predicted=803, true=608, accuracy=0.00, distance = 5.37
+ID=  433, predicted=453, true=609, accuracy=0.00, distance = 1.03
+ID=  434, predicted=611, true=611, accuracy=1.00, distance = 5.24
+ID=  435, predicted= 29, true=612, accuracy=0.00, distance = 2.82
+ID=  436, predicted=1630, true=614, accuracy=0.00, distance = 1.39
+ID=  437, predicted= 75, true=617, accuracy=0.00, distance = 4.05
+ID=  438, predicted=  6, true=618, accuracy=0.00, distance = 2.55
+ID=  439, predicted=1531, true=620, accuracy=0.00, distance = 7.49
+ID=  440, predicted=830, true=622, accuracy=0.00, distance = 2.62
+ID=  441, predicted=1054, true=625, accuracy=0.00, distance = 11.05
+ID=  442, predicted=338, true=626, accuracy=0.00, distance = 1.63
+ID=  443, predicted=885, true=627, accuracy=0.00, distance = 2.18
+ID=  444, predicted=524, true=628, accuracy=0.00, distance = 2.69
+ID=  445, predicted=759, true=629, accuracy=0.00, distance = 0.96
+ID=  446, predicted=1225, true=632, accuracy=0.00, distance = 1.68
+ID=  447, predicted=636, true=633, accuracy=0.00, distance = 3.94
+ID=  448, predicted=186, true=634, accuracy=0.00, distance = 2.45
+ID=  449, predicted=329, true=635, accuracy=0.00, distance = 7.68
+ID=  450, predicted=682, true=636, accuracy=0.00, distance = 0.72
+ID=  451, predicted=591, true=638, accuracy=0.00, distance = 2.05
+ID=  452, predicted=238, true=639, accuracy=0.00, distance = 1.27
+ID=  453, predicted=224, true=640, accuracy=0.00, distance = 2.62
+ID=  454, predicted=1454, true=641, accuracy=0.00, distance = 2.79
+ID=  455, predicted=1042, true=642, accuracy=0.00, distance = 2.67
+ID=  456, predicted=302, true=643, accuracy=0.00, distance = 2.10
+ID=  457, predicted=628, true=645, accuracy=0.00, distance = 2.88
+ID=  458, predicted=1630, true=646, accuracy=0.00, distance = 1.33
+ID=  459, predicted= 79, true=647, accuracy=0.00, distance = 12.29
+ID=  460, predicted=1346, true=652, accuracy=0.00, distance = 6.54
+ID=  461, predicted=415, true=653, accuracy=0.00, distance = 6.61
+ID=  462, predicted=453, true=654, accuracy=0.00, distance = 2.00
+ID=  463, predicted=452, true=655, accuracy=0.00, distance = 1.25
+ID=  464, predicted=907, true=659, accuracy=0.00, distance = 4.42
+ID=  465, predicted=116, true=661, accuracy=0.00, distance = 4.52
+ID=  466, predicted=358, true=662, accuracy=0.00, distance = 5.91
+ID=  467, predicted=1574, true=664, accuracy=0.00, distance = 6.92
+ID=  468, predicted=396, true=666, accuracy=0.00, distance = 2.83
+ID=  469, predicted=351, true=667, accuracy=0.00, distance = 2.39
+ID=  470, predicted=673, true=673, accuracy=1.00, distance = 7.63
+ID=  471, predicted=100, true=674, accuracy=0.00, distance = 1.60
+ID=  472, predicted=674, true=675, accuracy=0.00, distance = 1.85
+ID=  473, predicted=810, true=677, accuracy=0.00, distance = 4.79
+ID=  474, predicted=679, true=679, accuracy=1.00, distance = 2.48
+ID=  475, predicted=680, true=680, accuracy=1.00, distance = 5.60
+ID=  476, predicted=759, true=681, accuracy=0.00, distance = 0.77
+ID=  477, predicted=1513, true=682, accuracy=0.00, distance = 1.36
+ID=  478, predicted=683, true=683, accuracy=1.00, distance = 6.75
+ID=  479, predicted=993, true=684, accuracy=0.00, distance = 2.52
+ID=  480, predicted=112, true=686, accuracy=0.00, distance = 4.96
+ID=  481, predicted=687, true=687, accuracy=1.00, distance = 3.18
+ID=  482, predicted=1255, true=688, accuracy=0.00, distance = 9.40
+ID=  483, predicted=970, true=689, accuracy=0.00, distance = 2.59
+ID=  484, predicted=311, true=690, accuracy=0.00, distance = 3.38
+ID=  485, predicted=692, true=692, accuracy=1.00, distance = 4.90
+ID=  486, predicted=1352, true=694, accuracy=0.00, distance = 5.08
+ID=  487, predicted= 58, true=695, accuracy=0.00, distance = 9.50
+ID=  488, predicted=765, true=696, accuracy=0.00, distance = 2.76
+ID=  489, predicted=696, true=697, accuracy=0.00, distance = 3.14
+ID=  490, predicted=865, true=698, accuracy=0.00, distance = 10.49
+ID=  491, predicted= 48, true=703, accuracy=0.00, distance = 2.37
+ID=  492, predicted=1397, true=704, accuracy=0.00, distance = 1.14
+ID=  493, predicted=705, true=705, accuracy=1.00, distance = 1.82
+ID=  494, predicted=707, true=706, accuracy=0.00, distance = 2.13
+ID=  495, predicted=750, true=707, accuracy=0.00, distance = 2.67
+ID=  496, predicted=712, true=712, accuracy=1.00, distance = 2.82
+ID=  497, predicted=1259, true=713, accuracy=0.00, distance = 2.71
+ID=  498, predicted=238, true=714, accuracy=0.00, distance = 5.12
+ID=  499, predicted= 62, true=715, accuracy=0.00, distance = 3.07
+ID=  500, predicted=263, true=716, accuracy=0.00, distance = 1.93
+ID=  501, predicted=1188, true=718, accuracy=0.00, distance = 2.00
+ID=  502, predicted=304, true=719, accuracy=0.00, distance = 3.98
+ID=  503, predicted=269, true=720, accuracy=0.00, distance = 0.99
+ID=  504, predicted=121, true=721, accuracy=0.00, distance = 3.20
+ID=  505, predicted=622, true=722, accuracy=0.00, distance = 2.82
+ID=  506, predicted=1467, true=723, accuracy=0.00, distance = 6.48
+ID=  507, predicted=1412, true=724, accuracy=0.00, distance = 1.90
+ID=  508, predicted=1318, true=725, accuracy=0.00, distance = 5.00
+ID=  509, predicted=399, true=726, accuracy=0.00, distance = 7.65
+ID=  510, predicted=728, true=728, accuracy=1.00, distance = 1.88
+ID=  511, predicted=600, true=729, accuracy=0.00, distance = 6.55
+ID=  512, predicted=1454, true=730, accuracy=0.00, distance = 3.21
+ID=  513, predicted=1158, true=731, accuracy=0.00, distance = 3.21
+ID=  514, predicted=287, true=732, accuracy=0.00, distance = 4.80
+ID=  515, predicted=1014, true=733, accuracy=0.00, distance = 6.08
+ID=  516, predicted=1454, true=734, accuracy=0.00, distance = 3.57
+ID=  517, predicted=857, true=736, accuracy=0.00, distance = 2.17
+ID=  518, predicted=756, true=738, accuracy=0.00, distance = 6.77
+ID=  519, predicted= 28, true=739, accuracy=0.00, distance = 1.17
+ID=  520, predicted=1252, true=743, accuracy=0.00, distance = 3.25
+ID=  521, predicted=263, true=744, accuracy=0.00, distance = 3.76
+ID=  522, predicted=224, true=745, accuracy=0.00, distance = 2.91
+ID=  523, predicted=305, true=746, accuracy=0.00, distance = 8.15
+ID=  524, predicted=1249, true=747, accuracy=0.00, distance = 3.80
+ID=  525, predicted=748, true=748, accuracy=1.00, distance = 2.83
+ID=  526, predicted=1420, true=750, accuracy=0.00, distance = 2.47
+ID=  527, predicted=255, true=752, accuracy=0.00, distance = 1.65
+ID=  528, predicted=629, true=753, accuracy=0.00, distance = 3.86
+ID=  529, predicted=207, true=755, accuracy=0.00, distance = 2.71
+ID=  530, predicted=1318, true=756, accuracy=0.00, distance = 10.32
+ID=  531, predicted=1475, true=757, accuracy=0.00, distance = 0.44
+ID=  532, predicted=170, true=759, accuracy=0.00, distance = 3.93
+ID=  533, predicted=1099, true=760, accuracy=0.00, distance = 2.88
+ID=  534, predicted=1299, true=762, accuracy=0.00, distance = 2.03
+ID=  535, predicted=169, true=763, accuracy=0.00, distance = 1.91
+ID=  536, predicted=1242, true=765, accuracy=0.00, distance = 1.52
+ID=  537, predicted=767, true=767, accuracy=1.00, distance = 1.89
+ID=  538, predicted=1517, true=768, accuracy=0.00, distance = 1.33
+ID=  539, predicted=1477, true=769, accuracy=0.00, distance = 2.49
+ID=  540, predicted=1297, true=770, accuracy=0.00, distance = 9.48
+ID=  541, predicted=292, true=771, accuracy=0.00, distance = 2.28
+ID=  542, predicted=863, true=772, accuracy=0.00, distance = 1.25
+ID=  543, predicted=547, true=773, accuracy=0.00, distance = 3.27
+ID=  544, predicted=1534, true=774, accuracy=0.00, distance = 1.87
+ID=  545, predicted=755, true=775, accuracy=0.00, distance = 1.81
+ID=  546, predicted=1534, true=776, accuracy=0.00, distance = 1.15
+ID=  547, predicted=641, true=779, accuracy=0.00, distance = 1.39
+ID=  548, predicted=679, true=785, accuracy=0.00, distance = 2.01
+ID=  549, predicted=1450, true=786, accuracy=0.00, distance = 4.51
+ID=  550, predicted=1394, true=787, accuracy=0.00, distance = 9.29
+ID=  551, predicted=406, true=790, accuracy=0.00, distance = 3.09
+ID=  552, predicted=810, true=791, accuracy=0.00, distance = 7.34
+ID=  553, predicted=1340, true=792, accuracy=0.00, distance = 2.83
+ID=  554, predicted=1252, true=793, accuracy=0.00, distance = 7.56
+ID=  555, predicted=655, true=794, accuracy=0.00, distance = 2.73
+ID=  556, predicted=150, true=796, accuracy=0.00, distance = 2.24
+ID=  557, predicted=519, true=799, accuracy=0.00, distance = 1.18
+ID=  558, predicted=292, true=800, accuracy=0.00, distance = 2.97
+ID=  559, predicted=1571, true=801, accuracy=0.00, distance = 15.31
+ID=  560, predicted=905, true=802, accuracy=0.00, distance = 5.83
+ID=  561, predicted=167, true=803, accuracy=0.00, distance = 6.24
+ID=  562, predicted=1199, true=806, accuracy=0.00, distance = 3.19
+ID=  563, predicted=207, true=808, accuracy=0.00, distance = 6.43
+ID=  564, predicted=810, true=810, accuracy=1.00, distance = 6.33
+ID=  565, predicted=1025, true=811, accuracy=0.00, distance = 1.22
+ID=  566, predicted=1477, true=814, accuracy=0.00, distance = 2.94
+ID=  567, predicted=1389, true=815, accuracy=0.00, distance = 2.02
+ID=  568, predicted=1289, true=816, accuracy=0.00, distance = 3.57
+ID=  569, predicted=1238, true=818, accuracy=0.00, distance = 2.72
+ID=  570, predicted=1610, true=820, accuracy=0.00, distance = 2.43
+ID=  571, predicted=1116, true=821, accuracy=0.00, distance = 16.86
+ID=  572, predicted=822, true=822, accuracy=1.00, distance = 1.14
+ID=  573, predicted=1430, true=823, accuracy=0.00, distance = 4.51
+ID=  574, predicted=1251, true=825, accuracy=0.00, distance = 3.84
+ID=  575, predicted=992, true=827, accuracy=0.00, distance = 1.43
+ID=  576, predicted=828, true=828, accuracy=1.00, distance = 2.01
+ID=  577, predicted=474, true=829, accuracy=0.00, distance = 2.25
+ID=  578, predicted=1023, true=830, accuracy=0.00, distance = 2.29
+ID=  579, predicted=835, true=831, accuracy=0.00, distance = 2.50
+ID=  580, predicted=677, true=832, accuracy=0.00, distance = 6.20
+ID=  581, predicted=1484, true=833, accuracy=0.00, distance = 4.03
+ID=  582, predicted=1460, true=834, accuracy=0.00, distance = 2.34
+ID=  583, predicted=1259, true=835, accuracy=0.00, distance = 2.30
+ID=  584, predicted=1023, true=836, accuracy=0.00, distance = 2.87
+ID=  585, predicted=837, true=837, accuracy=1.00, distance = 2.21
+ID=  586, predicted=683, true=840, accuracy=0.00, distance = 7.98
+ID=  587, predicted=903, true=842, accuracy=0.00, distance = 3.18
+ID=  588, predicted=844, true=844, accuracy=1.00, distance = 12.30
+ID=  589, predicted=847, true=847, accuracy=1.00, distance = 5.38
+ID=  590, predicted=875, true=848, accuracy=0.00, distance = 6.98
+ID=  591, predicted= 54, true=849, accuracy=0.00, distance = 1.67
+ID=  592, predicted= 28, true=850, accuracy=0.00, distance = 2.26
+ID=  593, predicted=852, true=851, accuracy=0.00, distance = 6.20
+ID=  594, predicted=851, true=852, accuracy=0.00, distance = 5.77
+ID=  595, predicted=1543, true=853, accuracy=0.00, distance = 2.62
+ID=  596, predicted=854, true=854, accuracy=1.00, distance = 5.76
+ID=  597, predicted=1038, true=855, accuracy=0.00, distance = 2.60
+ID=  598, predicted=856, true=856, accuracy=1.00, distance = 10.61
+ID=  599, predicted=1068, true=857, accuracy=0.00, distance = 1.28
+ID=  600, predicted=816, true=858, accuracy=0.00, distance = 3.82
+ID=  601, predicted=769, true=859, accuracy=0.00, distance = 2.21
+ID=  602, predicted=342, true=860, accuracy=0.00, distance = 1.32
+ID=  603, predicted=861, true=861, accuracy=1.00, distance = 1.02
+ID=  604, predicted=862, true=862, accuracy=1.00, distance = 1.01
+ID=  605, predicted=272, true=863, accuracy=0.00, distance = 0.89
+ID=  606, predicted=603, true=864, accuracy=0.00, distance = 1.06
+ID=  607, predicted=865, true=865, accuracy=1.00, distance = 7.22
+ID=  608, predicted=1007, true=866, accuracy=0.00, distance = 4.34
+ID=  609, predicted=646, true=868, accuracy=0.00, distance = 1.17
+ID=  610, predicted=870, true=870, accuracy=1.00, distance = 3.41
+ID=  611, predicted=692, true=872, accuracy=0.00, distance = 3.21
+ID=  612, predicted=1584, true=873, accuracy=0.00, distance = 5.84
+ID=  613, predicted=874, true=874, accuracy=1.00, distance = 3.63
+ID=  614, predicted=1134, true=875, accuracy=0.00, distance = 6.28
+ID=  615, predicted=1555, true=876, accuracy=0.00, distance = 4.48
+ID=  616, predicted=1626, true=877, accuracy=0.00, distance = 10.38
+ID=  617, predicted=878, true=878, accuracy=1.00, distance = 4.26
+ID=  618, predicted=1225, true=880, accuracy=0.00, distance = 1.38
+ID=  619, predicted=885, true=885, accuracy=1.00, distance = 1.39
+ID=  620, predicted=1558, true=887, accuracy=0.00, distance = 1.66
+ID=  621, predicted=1379, true=889, accuracy=0.00, distance = 2.89
+ID=  622, predicted=588, true=890, accuracy=0.00, distance = 7.99
+ID=  623, predicted=1115, true=891, accuracy=0.00, distance = 2.29
+ID=  624, predicted=1492, true=892, accuracy=0.00, distance = 1.48
+ID=  625, predicted=1617, true=893, accuracy=0.00, distance = 1.94
+ID=  626, predicted=1108, true=895, accuracy=0.00, distance = 2.18
+ID=  627, predicted=292, true=896, accuracy=0.00, distance = 3.08
+ID=  628, predicted=108, true=897, accuracy=0.00, distance = 2.10
+ID=  629, predicted=473, true=899, accuracy=0.00, distance = 2.33
+ID=  630, predicted=1344, true=901, accuracy=0.00, distance = 3.65
+ID=  631, predicted=1103, true=902, accuracy=0.00, distance = 1.28
+ID=  632, predicted=364, true=903, accuracy=0.00, distance = 1.77
+ID=  633, predicted=368, true=904, accuracy=0.00, distance = 2.18
+ID=  634, predicted=755, true=905, accuracy=0.00, distance = 2.94
+ID=  635, predicted=794, true=906, accuracy=0.00, distance = 2.18
+ID=  636, predicted=1610, true=907, accuracy=0.00, distance = 2.22
+ID=  637, predicted=1225, true=909, accuracy=0.00, distance = 1.52
+ID=  638, predicted=1540, true=910, accuracy=0.00, distance = 1.87
+ID=  639, predicted=1289, true=911, accuracy=0.00, distance = 5.76
+ID=  640, predicted= 79, true=912, accuracy=0.00, distance = 3.39
+ID=  641, predicted=1593, true=913, accuracy=0.00, distance = 2.59
+ID=  642, predicted=150, true=915, accuracy=0.00, distance = 9.21
+ID=  643, predicted=512, true=916, accuracy=0.00, distance = 4.34
+ID=  644, predicted=917, true=917, accuracy=1.00, distance = 2.26
+ID=  645, predicted=1183, true=918, accuracy=0.00, distance = 15.21
+ID=  646, predicted=135, true=920, accuracy=0.00, distance = 1.04
+ID=  647, predicted=1038, true=921, accuracy=0.00, distance = 1.78
+ID=  648, predicted=889, true=923, accuracy=0.00, distance = 2.92
+ID=  649, predicted=1047, true=924, accuracy=0.00, distance = 1.18
+ID=  650, predicted=268, true=925, accuracy=0.00, distance = 1.23
+ID=  651, predicted=1047, true=926, accuracy=0.00, distance = 1.94
+ID=  652, predicted=752, true=927, accuracy=0.00, distance = 1.47
+ID=  653, predicted=1473, true=929, accuracy=0.00, distance = 8.93
+ID=  654, predicted=926, true=935, accuracy=0.00, distance = 3.18
+ID=  655, predicted= 72, true=939, accuracy=0.00, distance = 2.36
+ID=  656, predicted=706, true=940, accuracy=0.00, distance = 15.01
+ID=  657, predicted=675, true=942, accuracy=0.00, distance = 1.50
+ID=  658, predicted=101, true=946, accuracy=0.00, distance = 3.12
+ID=  659, predicted=1145, true=947, accuracy=0.00, distance = 2.12
+ID=  660, predicted=891, true=949, accuracy=0.00, distance = 2.21
+ID=  661, predicted=950, true=950, accuracy=1.00, distance = 5.47
+ID=  662, predicted=318, true=952, accuracy=0.00, distance = 4.90
+ID=  663, predicted=1629, true=954, accuracy=0.00, distance = 1.63
+ID=  664, predicted=325, true=959, accuracy=0.00, distance = 2.70
+ID=  665, predicted=1011, true=961, accuracy=0.00, distance = 1.20
+ID=  666, predicted=498, true=962, accuracy=0.00, distance = 4.68
+ID=  667, predicted=261, true=964, accuracy=0.00, distance = 3.28
+ID=  668, predicted=744, true=966, accuracy=0.00, distance = 7.90
+ID=  669, predicted=266, true=968, accuracy=0.00, distance = 1.66
+ID=  670, predicted= 48, true=969, accuracy=0.00, distance = 2.23
+ID=  671, predicted=970, true=970, accuracy=1.00, distance = 0.56
+ID=  672, predicted=981, true=981, accuracy=1.00, distance = 12.75
+ID=  673, predicted=182, true=982, accuracy=0.00, distance = 4.01
+ID=  674, predicted=994, true=984, accuracy=0.00, distance = 2.65
+ID=  675, predicted=1401, true=985, accuracy=0.00, distance = 2.29
+ID=  676, predicted=770, true=986, accuracy=0.00, distance = 12.58
+ID=  677, predicted=1465, true=990, accuracy=0.00, distance = 5.48
+ID=  678, predicted=992, true=992, accuracy=1.00, distance = 1.56
+ID=  679, predicted=157, true=993, accuracy=0.00, distance = 3.19
+ID=  680, predicted=765, true=994, accuracy=0.00, distance = 3.58
+ID=  681, predicted=474, true=995, accuracy=0.00, distance = 5.06
+ID=  682, predicted=997, true=997, accuracy=1.00, distance = 0.81
+ID=  683, predicted=1227, true=998, accuracy=0.00, distance = 1.30
+ID=  684, predicted=1140, true=1001, accuracy=0.00, distance = 2.66
+ID=  685, predicted=1002, true=1002, accuracy=1.00, distance = 2.14
+ID=  686, predicted=1002, true=1003, accuracy=0.00, distance = 3.03
+ID=  687, predicted=1460, true=1004, accuracy=0.00, distance = 2.93
+ID=  688, predicted=1005, true=1005, accuracy=1.00, distance = 3.74
+ID=  689, predicted=893, true=1006, accuracy=0.00, distance = 2.85
+ID=  690, predicted=1007, true=1007, accuracy=1.00, distance = 1.07
+ID=  691, predicted=311, true=1009, accuracy=0.00, distance = 4.77
+ID=  692, predicted=206, true=1010, accuracy=0.00, distance = 1.16
+ID=  693, predicted=1011, true=1011, accuracy=1.00, distance = 1.24
+ID=  694, predicted=1478, true=1012, accuracy=0.00, distance = 1.62
+ID=  695, predicted=1630, true=1013, accuracy=0.00, distance = 2.21
+ID=  696, predicted=1589, true=1014, accuracy=0.00, distance = 7.82
+ID=  697, predicted=1155, true=1016, accuracy=0.00, distance = 2.90
+ID=  698, predicted=902, true=1018, accuracy=0.00, distance = 2.39
+ID=  699, predicted=1263, true=1019, accuracy=0.00, distance = 3.72
+ID=  700, predicted=1020, true=1020, accuracy=1.00, distance = 0.76
+ID=  701, predicted=1205, true=1021, accuracy=0.00, distance = 3.59
+ID=  702, predicted=301, true=1022, accuracy=0.00, distance = 10.10
+ID=  703, predicted=1484, true=1023, accuracy=0.00, distance = 6.60
+ID=  704, predicted=559, true=1024, accuracy=0.00, distance = 4.28
+ID=  705, predicted=909, true=1025, accuracy=0.00, distance = 1.24
+ID=  706, predicted=347, true=1026, accuracy=0.00, distance = 3.28
+ID=  707, predicted=325, true=1027, accuracy=0.00, distance = 1.62
+ID=  708, predicted= 63, true=1029, accuracy=0.00, distance = 1.93
+ID=  709, predicted=1280, true=1030, accuracy=0.00, distance = 2.15
+ID=  710, predicted=1054, true=1031, accuracy=0.00, distance = 3.27
+ID=  711, predicted=325, true=1032, accuracy=0.00, distance = 2.61
+ID=  712, predicted= 63, true=1033, accuracy=0.00, distance = 3.37
+ID=  713, predicted=655, true=1034, accuracy=0.00, distance = 4.16
+ID=  714, predicted=1036, true=1036, accuracy=1.00, distance = 4.30
+ID=  715, predicted=768, true=1037, accuracy=0.00, distance = 2.09
+ID=  716, predicted=1038, true=1038, accuracy=1.00, distance = 3.27
+ID=  717, predicted=1524, true=1041, accuracy=0.00, distance = 3.42
+ID=  718, predicted=1241, true=1042, accuracy=0.00, distance = 1.94
+ID=  719, predicted=1609, true=1045, accuracy=0.00, distance = 0.67
+ID=  720, predicted=1609, true=1046, accuracy=0.00, distance = 2.06
+ID=  721, predicted=1047, true=1047, accuracy=1.00, distance = 1.04
+ID=  722, predicted=1510, true=1048, accuracy=0.00, distance = 3.90
+ID=  723, predicted=1050, true=1050, accuracy=1.00, distance = 7.61
+ID=  724, predicted=1229, true=1052, accuracy=0.00, distance = 3.54
+ID=  725, predicted=1142, true=1053, accuracy=0.00, distance = 1.69
+ID=  726, predicted=1054, true=1054, accuracy=1.00, distance = 2.07
+ID=  727, predicted=102, true=1056, accuracy=0.00, distance = 5.44
+ID=  728, predicted=521, true=1057, accuracy=0.00, distance = 7.34
+ID=  729, predicted=984, true=1058, accuracy=0.00, distance = 3.29
+ID=  730, predicted=969, true=1059, accuracy=0.00, distance = 1.10
+ID=  731, predicted=912, true=1061, accuracy=0.00, distance = 3.15
+ID=  732, predicted=1062, true=1062, accuracy=1.00, distance = 2.12
+ID=  733, predicted=1063, true=1063, accuracy=1.00, distance = 2.76
+ID=  734, predicted=481, true=1064, accuracy=0.00, distance = 3.20
+ID=  735, predicted=1045, true=1065, accuracy=0.00, distance = 3.67
+ID=  736, predicted=1066, true=1066, accuracy=1.00, distance = 18.02
+ID=  737, predicted=1139, true=1067, accuracy=0.00, distance = 2.35
+ID=  738, predicted=453, true=1068, accuracy=0.00, distance = 1.75
+ID=  739, predicted=1241, true=1071, accuracy=0.00, distance = 2.69
+ID=  740, predicted=502, true=1073, accuracy=0.00, distance = 4.05
+ID=  741, predicted=1019, true=1075, accuracy=0.00, distance = 8.81
+ID=  742, predicted=1564, true=1076, accuracy=0.00, distance = 1.95
+ID=  743, predicted=1396, true=1079, accuracy=0.00, distance = 5.86
+ID=  744, predicted=1230, true=1080, accuracy=0.00, distance = 7.11
+ID=  745, predicted=1082, true=1082, accuracy=1.00, distance = 7.87
+ID=  746, predicted=1011, true=1083, accuracy=0.00, distance = 2.93
+ID=  747, predicted=1463, true=1084, accuracy=0.00, distance = 3.18
+ID=  748, predicted=216, true=1085, accuracy=0.00, distance = 2.93
+ID=  749, predicted=954, true=1086, accuracy=0.00, distance = 2.61
+ID=  750, predicted=330, true=1088, accuracy=0.00, distance = 1.26
+ID=  751, predicted=1209, true=1089, accuracy=0.00, distance = 2.50
+ID=  752, predicted=1090, true=1090, accuracy=1.00, distance = 1.37
+ID=  753, predicted=776, true=1092, accuracy=0.00, distance = 1.59
+ID=  754, predicted=1556, true=1094, accuracy=0.00, distance = 2.59
+ID=  755, predicted=721, true=1098, accuracy=0.00, distance = 3.10
+ID=  756, predicted=500, true=1099, accuracy=0.00, distance = 1.35
+ID=  757, predicted=682, true=1100, accuracy=0.00, distance = 2.01
+ID=  758, predicted=1386, true=1101, accuracy=0.00, distance = 4.45
+ID=  759, predicted=1103, true=1103, accuracy=1.00, distance = 1.31
+ID=  760, predicted=100, true=1104, accuracy=0.00, distance = 3.25
+ID=  761, predicted=186, true=1105, accuracy=0.00, distance = 1.77
+ID=  762, predicted=1158, true=1106, accuracy=0.00, distance = 11.08
+ID=  763, predicted=640, true=1107, accuracy=0.00, distance = 10.01
+ID=  764, predicted=1166, true=1108, accuracy=0.00, distance = 2.50
+ID=  765, predicted=1309, true=1110, accuracy=0.00, distance = 7.59
+ID=  766, predicted=1111, true=1111, accuracy=1.00, distance = 11.35
+ID=  767, predicted=1384, true=1112, accuracy=0.00, distance = 0.79
+ID=  768, predicted=970, true=1113, accuracy=0.00, distance = 2.05
+ID=  769, predicted=1114, true=1114, accuracy=1.00, distance = 2.29
+ID=  770, predicted=482, true=1115, accuracy=0.00, distance = 1.15
+ID=  771, predicted=1180, true=1116, accuracy=0.00, distance = 6.43
+ID=  772, predicted= 62, true=1119, accuracy=0.00, distance = 1.79
+ID=  773, predicted=1629, true=1121, accuracy=0.00, distance = 1.83
+ID=  774, predicted=524, true=1131, accuracy=0.00, distance = 3.62
+ID=  775, predicted=1132, true=1132, accuracy=1.00, distance = 4.86
+ID=  776, predicted=664, true=1133, accuracy=0.00, distance = 2.04
+ID=  777, predicted=1321, true=1134, accuracy=0.00, distance = 2.93
+ID=  778, predicted=1135, true=1135, accuracy=1.00, distance = 4.25
+ID=  779, predicted=117, true=1136, accuracy=0.00, distance = 2.49
+ID=  780, predicted=1137, true=1137, accuracy=1.00, distance = 5.93
+ID=  781, predicted=1363, true=1139, accuracy=0.00, distance = 6.31
+ID=  782, predicted=916, true=1140, accuracy=0.00, distance = 6.02
+ID=  783, predicted=1516, true=1141, accuracy=0.00, distance = 2.21
+ID=  784, predicted=127, true=1142, accuracy=0.00, distance = 0.97
+ID=  785, predicted=1143, true=1143, accuracy=1.00, distance = 1.60
+ID=  786, predicted=949, true=1145, accuracy=0.00, distance = 2.39
+ID=  787, predicted=1575, true=1147, accuracy=0.00, distance = 2.98
+ID=  788, predicted=165, true=1149, accuracy=0.00, distance = 1.44
+ID=  789, predicted= 29, true=1150, accuracy=0.00, distance = 1.81
+ID=  790, predicted=720, true=1151, accuracy=0.00, distance = 1.74
+ID=  791, predicted=174, true=1153, accuracy=0.00, distance = 1.19
+ID=  792, predicted=1215, true=1154, accuracy=0.00, distance = 2.32
+ID=  793, predicted=186, true=1155, accuracy=0.00, distance = 5.08
+ID=  794, predicted=287, true=1158, accuracy=0.00, distance = 2.15
+ID=  795, predicted=521, true=1161, accuracy=0.00, distance = 6.65
+ID=  796, predicted=961, true=1163, accuracy=0.00, distance = 0.59
+ID=  797, predicted=1164, true=1164, accuracy=1.00, distance = 2.23
+ID=  798, predicted=1543, true=1166, accuracy=0.00, distance = 3.68
+ID=  799, predicted=354, true=1167, accuracy=0.00, distance = 1.08
+ID=  800, predicted=1214, true=1168, accuracy=0.00, distance = 5.06
+ID=  801, predicted=1167, true=1170, accuracy=0.00, distance = 4.13
+ID=  802, predicted=258, true=1171, accuracy=0.00, distance = 5.30
+ID=  803, predicted=1036, true=1174, accuracy=0.00, distance = 3.61
+ID=  804, predicted=268, true=1175, accuracy=0.00, distance = 2.51
+ID=  805, predicted=925, true=1177, accuracy=0.00, distance = 1.19
+ID=  806, predicted=1178, true=1178, accuracy=1.00, distance = 2.22
+ID=  807, predicted=149, true=1180, accuracy=0.00, distance = 4.30
+ID=  808, predicted= 72, true=1181, accuracy=0.00, distance = 5.04
+ID=  809, predicted=1517, true=1182, accuracy=0.00, distance = 1.52
+ID=  810, predicted=1264, true=1183, accuracy=0.00, distance = 5.04
+ID=  811, predicted=961, true=1185, accuracy=0.00, distance = 3.41
+ID=  812, predicted=1492, true=1187, accuracy=0.00, distance = 5.03
+ID=  813, predicted=1188, true=1188, accuracy=1.00, distance = 2.27
+ID=  814, predicted=143, true=1193, accuracy=0.00, distance = 3.33
+ID=  815, predicted=1195, true=1195, accuracy=1.00, distance = 2.07
+ID=  816, predicted=655, true=1196, accuracy=0.00, distance = 2.87
+ID=  817, predicted=1105, true=1199, accuracy=0.00, distance = 7.65
+ID=  818, predicted=1071, true=1200, accuracy=0.00, distance = 2.21
+ID=  819, predicted=183, true=1201, accuracy=0.00, distance = 1.93
+ID=  820, predicted=146, true=1202, accuracy=0.00, distance = 8.24
+ID=  821, predicted=1264, true=1204, accuracy=0.00, distance = 1.92
+ID=  822, predicted=183, true=1205, accuracy=0.00, distance = 3.64
+ID=  823, predicted=1545, true=1209, accuracy=0.00, distance = 1.04
+ID=  824, predicted=146, true=1210, accuracy=0.00, distance = 1.26
+ID=  825, predicted=603, true=1211, accuracy=0.00, distance = 1.32
+ID=  826, predicted=1212, true=1212, accuracy=1.00, distance = 2.77
+ID=  827, predicted=1212, true=1213, accuracy=0.00, distance = 6.11
+ID=  828, predicted=206, true=1214, accuracy=0.00, distance = 1.12
+ID=  829, predicted=1240, true=1215, accuracy=0.00, distance = 4.43
+ID=  830, predicted=1217, true=1217, accuracy=1.00, distance = 2.04
+ID=  831, predicted=594, true=1218, accuracy=0.00, distance = 2.93
+ID=  832, predicted=120, true=1219, accuracy=0.00, distance = 7.67
+ID=  833, predicted=108, true=1221, accuracy=0.00, distance = 1.17
+ID=  834, predicted=152, true=1222, accuracy=0.00, distance = 6.22
+ID=  835, predicted=1166, true=1223, accuracy=0.00, distance = 1.84
+ID=  836, predicted=1224, true=1224, accuracy=1.00, distance = 2.72
+ID=  837, predicted=1270, true=1225, accuracy=0.00, distance = 1.44
+ID=  838, predicted=206, true=1226, accuracy=0.00, distance = 1.16
+ID=  839, predicted=206, true=1227, accuracy=0.00, distance = 1.48
+ID=  840, predicted=1507, true=1229, accuracy=0.00, distance = 0.54
+ID=  841, predicted=207, true=1230, accuracy=0.00, distance = 2.09
+ID=  842, predicted=1232, true=1232, accuracy=1.00, distance = 2.27
+ID=  843, predicted=407, true=1233, accuracy=0.00, distance = 4.08
+ID=  844, predicted=135, true=1234, accuracy=0.00, distance = 4.38
+ID=  845, predicted=1047, true=1235, accuracy=0.00, distance = 1.97
+ID=  846, predicted=696, true=1236, accuracy=0.00, distance = 2.90
+ID=  847, predicted=728, true=1237, accuracy=0.00, distance = 8.09
+ID=  848, predicted=1382, true=1238, accuracy=0.00, distance = 0.70
+ID=  849, predicted=620, true=1240, accuracy=0.00, distance = 4.06
+ID=  850, predicted=1223, true=1241, accuracy=0.00, distance = 4.62
+ID=  851, predicted=1556, true=1242, accuracy=0.00, distance = 2.89
+ID=  852, predicted=1016, true=1243, accuracy=0.00, distance = 8.61
+ID=  853, predicted=1016, true=1245, accuracy=0.00, distance = 7.06
+ID=  854, predicted=902, true=1247, accuracy=0.00, distance = 1.49
+ID=  855, predicted=258, true=1248, accuracy=0.00, distance = 2.09
+ID=  856, predicted=1496, true=1249, accuracy=0.00, distance = 4.12
+ID=  857, predicted=994, true=1250, accuracy=0.00, distance = 2.61
+ID=  858, predicted=311, true=1251, accuracy=0.00, distance = 2.09
+ID=  859, predicted=277, true=1252, accuracy=0.00, distance = 2.42
+ID=  860, predicted=1005, true=1254, accuracy=0.00, distance = 6.05
+ID=  861, predicted=1255, true=1255, accuracy=1.00, distance = 6.59
+ID=  862, predicted=266, true=1257, accuracy=0.00, distance = 4.73
+ID=  863, predicted=1271, true=1258, accuracy=0.00, distance = 1.23
+ID=  864, predicted=1259, true=1259, accuracy=1.00, distance = 2.72
+ID=  865, predicted=263, true=1260, accuracy=0.00, distance = 1.67
+ID=  866, predicted=697, true=1262, accuracy=0.00, distance = 3.19
+ID=  867, predicted= 72, true=1263, accuracy=0.00, distance = 1.28
+ID=  868, predicted=880, true=1264, accuracy=0.00, distance = 1.91
+ID=  869, predicted=1038, true=1265, accuracy=0.00, distance = 1.78
+ID=  870, predicted=1475, true=1266, accuracy=0.00, distance = 2.01
+ID=  871, predicted=1267, true=1267, accuracy=1.00, distance = 6.04
+ID=  872, predicted=1025, true=1269, accuracy=0.00, distance = 2.78
+ID=  873, predicted=1225, true=1270, accuracy=0.00, distance = 2.25
+ID=  874, predicted=759, true=1271, accuracy=0.00, distance = 1.17
+ID=  875, predicted=905, true=1272, accuracy=0.00, distance = 8.24
+ID=  876, predicted=1386, true=1273, accuracy=0.00, distance = 5.94
+ID=  877, predicted=1477, true=1274, accuracy=0.00, distance = 1.37
+ID=  878, predicted=872, true=1275, accuracy=0.00, distance = 2.34
+ID=  879, predicted=629, true=1276, accuracy=0.00, distance = 3.51
+ID=  880, predicted=969, true=1277, accuracy=0.00, distance = 4.66
+ID=  881, predicted=1421, true=1279, accuracy=0.00, distance = 4.11
+ID=  882, predicted=902, true=1280, accuracy=0.00, distance = 1.77
+ID=  883, predicted=113, true=1282, accuracy=0.00, distance = 1.73
+ID=  884, predicted=1412, true=1286, accuracy=0.00, distance = 4.05
+ID=  885, predicted=1421, true=1287, accuracy=0.00, distance = 5.87
+ID=  886, predicted=1289, true=1289, accuracy=1.00, distance = 3.02
+ID=  887, predicted=1099, true=1290, accuracy=0.00, distance = 1.43
+ID=  888, predicted=1242, true=1292, accuracy=0.00, distance = 3.18
+ID=  889, predicted=398, true=1294, accuracy=0.00, distance = 3.98
+ID=  890, predicted= 99, true=1295, accuracy=0.00, distance = 2.39
+ID=  891, predicted= 84, true=1296, accuracy=0.00, distance = 2.35
+ID=  892, predicted=313, true=1297, accuracy=0.00, distance = 0.97
+ID=  893, predicted=476, true=1298, accuracy=0.00, distance = 2.29
+ID=  894, predicted=1630, true=1299, accuracy=0.00, distance = 1.27
+ID=  895, predicted=1300, true=1300, accuracy=1.00, distance = 12.12
+ID=  896, predicted=1193, true=1301, accuracy=0.00, distance = 4.04
+ID=  897, predicted=993, true=1303, accuracy=0.00, distance = 2.00
+ID=  898, predicted=1304, true=1304, accuracy=1.00, distance = 4.79
+ID=  899, predicted=558, true=1306, accuracy=0.00, distance = 1.95
+ID=  900, predicted=1309, true=1309, accuracy=1.00, distance = 6.58
+ID=  901, predicted=596, true=1313, accuracy=0.00, distance = 4.26
+ID=  902, predicted=399, true=1314, accuracy=0.00, distance = 3.84
+ID=  903, predicted=305, true=1315, accuracy=0.00, distance = 15.81
+ID=  904, predicted=355, true=1318, accuracy=0.00, distance = 7.51
+ID=  905, predicted=1020, true=1319, accuracy=0.00, distance = 1.06
+ID=  906, predicted=466, true=1320, accuracy=0.00, distance = 4.39
+ID=  907, predicted=759, true=1321, accuracy=0.00, distance = 1.92
+ID=  908, predicted=1326, true=1326, accuracy=1.00, distance = 3.02
+ID=  909, predicted=1610, true=1327, accuracy=0.00, distance = 1.19
+ID=  910, predicted=646, true=1328, accuracy=0.00, distance = 0.86
+ID=  911, predicted=104, true=1329, accuracy=0.00, distance = 4.29
+ID=  912, predicted=1330, true=1330, accuracy=1.00, distance = 0.99
+ID=  913, predicted=238, true=1331, accuracy=0.00, distance = 4.05
+ID=  914, predicted=639, true=1333, accuracy=0.00, distance = 6.62
+ID=  915, predicted=786, true=1335, accuracy=0.00, distance = 6.27
+ID=  916, predicted=903, true=1337, accuracy=0.00, distance = 1.39
+ID=  917, predicted=113, true=1338, accuracy=0.00, distance = 2.44
+ID=  918, predicted=827, true=1340, accuracy=0.00, distance = 1.25
+ID=  919, predicted=1525, true=1343, accuracy=0.00, distance = 2.35
+ID=  920, predicted=628, true=1344, accuracy=0.00, distance = 3.21
+ID=  921, predicted=145, true=1345, accuracy=0.00, distance = 1.35
+ID=  922, predicted=1346, true=1346, accuracy=1.00, distance = 3.38
+ID=  923, predicted=1347, true=1347, accuracy=1.00, distance = 3.25
+ID=  924, predicted=268, true=1349, accuracy=0.00, distance = 0.99
+ID=  925, predicted=1492, true=1352, accuracy=0.00, distance = 2.00
+ID=  926, predicted=1518, true=1356, accuracy=0.00, distance = 10.67
+ID=  927, predicted=104, true=1357, accuracy=0.00, distance = 12.54
+ID=  928, predicted=811, true=1358, accuracy=0.00, distance = 2.30
+ID=  929, predicted=925, true=1359, accuracy=0.00, distance = 2.17
+ID=  930, predicted=800, true=1361, accuracy=0.00, distance = 3.56
+ID=  931, predicted=1023, true=1363, accuracy=0.00, distance = 3.40
+ID=  932, predicted=1499, true=1364, accuracy=0.00, distance = 6.41
+ID=  933, predicted=1366, true=1366, accuracy=1.00, distance = 2.46
+ID=  934, predicted=1367, true=1367, accuracy=1.00, distance = 13.16
+ID=  935, predicted=354, true=1368, accuracy=0.00, distance = 3.55
+ID=  936, predicted=146, true=1369, accuracy=0.00, distance = 1.97
+ID=  937, predicted=659, true=1370, accuracy=0.00, distance = 4.03
+ID=  938, predicted=794, true=1371, accuracy=0.00, distance = 2.53
+ID=  939, predicted=1567, true=1372, accuracy=0.00, distance = 5.91
+ID=  940, predicted=1374, true=1374, accuracy=1.00, distance = 3.09
+ID=  941, predicted=627, true=1376, accuracy=0.00, distance = 3.64
+ID=  942, predicted=263, true=1377, accuracy=0.00, distance = 3.49
+ID=  943, predicted=892, true=1378, accuracy=0.00, distance = 0.95
+ID=  944, predicted=1603, true=1379, accuracy=0.00, distance = 3.44
+ID=  945, predicted=1357, true=1380, accuracy=0.00, distance = 5.99
+ID=  946, predicted=1382, true=1382, accuracy=1.00, distance = 2.73
+ID=  947, predicted=1383, true=1383, accuracy=1.00, distance = 3.03
+ID=  948, predicted=992, true=1384, accuracy=0.00, distance = 2.58
+ID=  949, predicted=396, true=1385, accuracy=0.00, distance = 1.48
+ID=  950, predicted= 55, true=1386, accuracy=0.00, distance = 4.42
+ID=  951, predicted=144, true=1387, accuracy=0.00, distance = 3.41
+ID=  952, predicted= 35, true=1388, accuracy=0.00, distance = 2.79
+ID=  953, predicted=1139, true=1389, accuracy=0.00, distance = 2.01
+ID=  954, predicted=994, true=1390, accuracy=0.00, distance = 1.92
+ID=  955, predicted=473, true=1392, accuracy=0.00, distance = 3.56
+ID=  956, predicted=1569, true=1394, accuracy=0.00, distance = 4.44
+ID=  957, predicted=1382, true=1395, accuracy=0.00, distance = 1.33
+ID=  958, predicted=1142, true=1396, accuracy=0.00, distance = 1.79
+ID=  959, predicted=1477, true=1397, accuracy=0.00, distance = 2.24
+ID=  960, predicted=1270, true=1398, accuracy=0.00, distance = 1.90
+ID=  961, predicted=1275, true=1400, accuracy=0.00, distance = 1.00
+ID=  962, predicted=1425, true=1401, accuracy=0.00, distance = 2.22
+ID=  963, predicted=1204, true=1402, accuracy=0.00, distance = 2.12
+ID=  964, predicted=827, true=1404, accuracy=0.00, distance = 1.57
+ID=  965, predicted=1405, true=1405, accuracy=1.00, distance = 2.82
+ID=  966, predicted=311, true=1406, accuracy=0.00, distance = 5.04
+ID=  967, predicted=1289, true=1409, accuracy=0.00, distance = 6.71
+ID=  968, predicted=1084, true=1410, accuracy=0.00, distance = 6.37
+ID=  969, predicted=822, true=1411, accuracy=0.00, distance = 2.25
+ID=  970, predicted=645, true=1412, accuracy=0.00, distance = 1.83
+ID=  971, predicted=994, true=1414, accuracy=0.00, distance = 2.68
+ID=  972, predicted=878, true=1416, accuracy=0.00, distance = 1.74
+ID=  973, predicted=275, true=1417, accuracy=0.00, distance = 3.50
+ID=  974, predicted=1418, true=1418, accuracy=1.00, distance = 2.56
+ID=  975, predicted=1419, true=1419, accuracy=1.00, distance = 3.02
+ID=  976, predicted=1419, true=1420, accuracy=0.00, distance = 2.33
+ID=  977, predicted=1492, true=1421, accuracy=0.00, distance = 1.66
+ID=  978, predicted=1422, true=1422, accuracy=1.00, distance = 3.31
+ID=  979, predicted=407, true=1424, accuracy=0.00, distance = 1.88
+ID=  980, predicted=1425, true=1425, accuracy=1.00, distance = 2.36
+ID=  981, predicted=674, true=1427, accuracy=0.00, distance = 5.67
+ID=  982, predicted=136, true=1429, accuracy=0.00, distance = 1.19
+ID=  983, predicted=1430, true=1430, accuracy=1.00, distance = 3.44
+ID=  984, predicted=1431, true=1431, accuracy=1.00, distance = 3.31
+ID=  985, predicted=475, true=1432, accuracy=0.00, distance = 3.27
+ID=  986, predicted=1116, true=1433, accuracy=0.00, distance = 9.82
+ID=  987, predicted=1606, true=1434, accuracy=0.00, distance = 6.18
+ID=  988, predicted=1435, true=1435, accuracy=1.00, distance = 3.19
+ID=  989, predicted=655, true=1436, accuracy=0.00, distance = 2.74
+ID=  990, predicted=800, true=1437, accuracy=0.00, distance = 6.20
+ID=  991, predicted=1515, true=1438, accuracy=0.00, distance = 6.23
+ID=  992, predicted=1447, true=1440, accuracy=0.00, distance = 8.57
+ID=  993, predicted=954, true=1441, accuracy=0.00, distance = 3.15
+ID=  994, predicted=413, true=1443, accuracy=0.00, distance = 2.35
+ID=  995, predicted=1446, true=1446, accuracy=1.00, distance = 1.27
+ID=  996, predicted=1447, true=1447, accuracy=1.00, distance = 6.71
+ID=  997, predicted=1450, true=1450, accuracy=1.00, distance = 2.82
+ID=  998, predicted=1085, true=1452, accuracy=0.00, distance = 3.41
+ID=  999, predicted=681, true=1454, accuracy=0.00, distance = 1.97
+ID= 1000, predicted=1459, true=1459, accuracy=1.00, distance = 6.26
+ID= 1001, predicted=1023, true=1460, accuracy=0.00, distance = 2.13
+ID= 1002, predicted=1090, true=1462, accuracy=0.00, distance = 1.35
+ID= 1003, predicted=1071, true=1463, accuracy=0.00, distance = 1.54
+ID= 1004, predicted=1047, true=1465, accuracy=0.00, distance = 0.92
+ID= 1005, predicted=779, true=1467, accuracy=0.00, distance = 2.63
+ID= 1006, predicted=1517, true=1469, accuracy=0.00, distance = 0.95
+ID= 1007, predicted=1564, true=1470, accuracy=0.00, distance = 1.66
+ID= 1008, predicted=1137, true=1472, accuracy=0.00, distance = 4.92
+ID= 1009, predicted=1238, true=1473, accuracy=0.00, distance = 0.85
+ID= 1010, predicted=850, true=1474, accuracy=0.00, distance = 2.62
+ID= 1011, predicted=1630, true=1475, accuracy=0.00, distance = 0.57
+ID= 1012, predicted=1477, true=1477, accuracy=1.00, distance = 1.50
+ID= 1013, predicted=127, true=1478, accuracy=0.00, distance = 4.16
+ID= 1014, predicted=1099, true=1480, accuracy=0.00, distance = 1.50
+ID= 1015, predicted=1483, true=1483, accuracy=1.00, distance = 4.09
+ID= 1016, predicted=1484, true=1484, accuracy=1.00, distance = 4.67
+ID= 1017, predicted=135, true=1485, accuracy=0.00, distance = 4.20
+ID= 1018, predicted=638, true=1486, accuracy=0.00, distance = 5.59
+ID= 1019, predicted=  6, true=1488, accuracy=0.00, distance = 1.12
+ID= 1020, predicted=1218, true=1489, accuracy=0.00, distance = 4.10
+ID= 1021, predicted=536, true=1490, accuracy=0.00, distance = 2.39
+ID= 1022, predicted=1275, true=1491, accuracy=0.00, distance = 3.61
+ID= 1023, predicted=1492, true=1492, accuracy=1.00, distance = 1.51
+ID= 1024, predicted=1493, true=1493, accuracy=1.00, distance = 8.79
+ID= 1025, predicted=1495, true=1495, accuracy=1.00, distance = 2.20
+ID= 1026, predicted=962, true=1496, accuracy=0.00, distance = 1.74
+ID= 1027, predicted=674, true=1498, accuracy=0.00, distance = 2.18
+ID= 1028, predicted=970, true=1499, accuracy=0.00, distance = 2.89
+ID= 1029, predicted=1326, true=1500, accuracy=0.00, distance = 3.12
+ID= 1030, predicted=200, true=1502, accuracy=0.00, distance = 5.34
+ID= 1031, predicted=285, true=1505, accuracy=0.00, distance = 2.31
+ID= 1032, predicted=858, true=1506, accuracy=0.00, distance = 3.44
+ID= 1033, predicted=1518, true=1507, accuracy=0.00, distance = 1.82
+ID= 1034, predicted=1469, true=1510, accuracy=0.00, distance = 4.77
+ID= 1035, predicted= 11, true=1511, accuracy=0.00, distance = 3.65
+ID= 1036, predicted=887, true=1513, accuracy=0.00, distance = 1.16
+ID= 1037, predicted=1496, true=1514, accuracy=0.00, distance = 1.20
+ID= 1038, predicted= 94, true=1515, accuracy=0.00, distance = 2.97
+ID= 1039, predicted=1564, true=1516, accuracy=0.00, distance = 1.17
+ID= 1040, predicted= 29, true=1517, accuracy=0.00, distance = 1.09
+ID= 1041, predicted=902, true=1518, accuracy=0.00, distance = 0.90
+ID= 1042, predicted=911, true=1522, accuracy=0.00, distance = 6.17
+ID= 1043, predicted=1031, true=1524, accuracy=0.00, distance = 6.40
+ID= 1044, predicted=1099, true=1525, accuracy=0.00, distance = 1.89
+ID= 1045, predicted= 53, true=1526, accuracy=0.00, distance = 7.50
+ID= 1046, predicted=370, true=1530, accuracy=0.00, distance = 2.71
+ID= 1047, predicted=520, true=1531, accuracy=0.00, distance = 3.57
+ID= 1048, predicted=1018, true=1534, accuracy=0.00, distance = 1.80
+ID= 1049, predicted=1525, true=1535, accuracy=0.00, distance = 1.32
+ID= 1050, predicted=1536, true=1536, accuracy=1.00, distance = 1.66
+ID= 1051, predicted=966, true=1538, accuracy=0.00, distance = 6.54
+ID= 1052, predicted=206, true=1540, accuracy=0.00, distance = 2.22
+ID= 1053, predicted=1240, true=1541, accuracy=0.00, distance = 10.23
+ID= 1054, predicted= 55, true=1542, accuracy=0.00, distance = 11.66
+ID= 1055, predicted=907, true=1543, accuracy=0.00, distance = 2.19
+ID= 1056, predicted=1545, true=1545, accuracy=1.00, distance = 0.93
+ID= 1057, predicted=1546, true=1546, accuracy=1.00, distance = 1.34
+ID= 1058, predicted=1217, true=1549, accuracy=0.00, distance = 5.62
+ID= 1059, predicted=1214, true=1550, accuracy=0.00, distance = 4.56
+ID= 1060, predicted=1470, true=1552, accuracy=0.00, distance = 1.24
+ID= 1061, predicted=496, true=1555, accuracy=0.00, distance = 2.74
+ID= 1062, predicted=302, true=1556, accuracy=0.00, distance = 2.20
+ID= 1063, predicted=1163, true=1557, accuracy=0.00, distance = 2.13
+ID= 1064, predicted=632, true=1558, accuracy=0.00, distance = 1.24
+ID= 1065, predicted=903, true=1562, accuracy=0.00, distance = 0.51
+ID= 1066, predicted= 65, true=1563, accuracy=0.00, distance = 2.95
+ID= 1067, predicted=1495, true=1564, accuracy=0.00, distance = 1.33
+ID= 1068, predicted=467, true=1566, accuracy=0.00, distance = 4.04
+ID= 1069, predicted=186, true=1567, accuracy=0.00, distance = 5.03
+ID= 1070, predicted=1569, true=1569, accuracy=1.00, distance = 2.21
+ID= 1071, predicted=1025, true=1570, accuracy=0.00, distance = 1.24
+ID= 1072, predicted=985, true=1571, accuracy=0.00, distance = 6.43
+ID= 1073, predicted=442, true=1572, accuracy=0.00, distance = 6.00
+ID= 1074, predicted=892, true=1573, accuracy=0.00, distance = 1.55
+ID= 1075, predicted=1432, true=1574, accuracy=0.00, distance = 4.28
+ID= 1076, predicted=968, true=1575, accuracy=0.00, distance = 3.29
+ID= 1077, predicted=1058, true=1576, accuracy=0.00, distance = 8.60
+ID= 1078, predicted=603, true=1577, accuracy=0.00, distance = 1.53
+ID= 1079, predicted=1371, true=1578, accuracy=0.00, distance = 3.53
+ID= 1080, predicted=1584, true=1584, accuracy=1.00, distance = 2.22
+ID= 1081, predicted=1585, true=1585, accuracy=1.00, distance = 8.03
+ID= 1082, predicted=1002, true=1586, accuracy=0.00, distance = 3.98
+ID= 1083, predicted=887, true=1587, accuracy=0.00, distance = 1.89
+ID= 1084, predicted=1137, true=1589, accuracy=0.00, distance = 7.02
+ID= 1085, predicted=682, true=1590, accuracy=0.00, distance = 2.18
+ID= 1086, predicted=1214, true=1591, accuracy=0.00, distance = 2.69
+ID= 1087, predicted=713, true=1593, accuracy=0.00, distance = 2.63
+ID= 1088, predicted=280, true=1594, accuracy=0.00, distance = 2.86
+ID= 1089, predicted=901, true=1595, accuracy=0.00, distance = 2.76
+ID= 1090, predicted=1021, true=1597, accuracy=0.00, distance = 4.43
+ID= 1091, predicted=1032, true=1598, accuracy=0.00, distance = 17.07
+ID= 1092, predicted=137, true=1601, accuracy=0.00, distance = 3.78
+ID= 1093, predicted=1150, true=1602, accuracy=0.00, distance = 1.52
+ID= 1094, predicted=899, true=1603, accuracy=0.00, distance = 4.45
+ID= 1095, predicted=810, true=1605, accuracy=0.00, distance = 7.07
+ID= 1096, predicted=1016, true=1606, accuracy=0.00, distance = 8.35
+ID= 1097, predicted=1385, true=1608, accuracy=0.00, distance = 1.48
+ID= 1098, predicted=1382, true=1609, accuracy=0.00, distance = 1.38
+ID= 1099, predicted=1412, true=1610, accuracy=0.00, distance = 1.41
+ID= 1100, predicted=1225, true=1612, accuracy=0.00, distance = 1.85
+ID= 1101, predicted=632, true=1613, accuracy=0.00, distance = 2.16
+ID= 1102, predicted=682, true=1614, accuracy=0.00, distance = 1.04
+ID= 1103, predicted=1615, true=1615, accuracy=1.00, distance = 3.85
+ID= 1104, predicted=1545, true=1617, accuracy=0.00, distance = 1.76
+ID= 1105, predicted=1619, true=1619, accuracy=1.00, distance = 3.37
+ID= 1106, predicted=1603, true=1621, accuracy=0.00, distance = 4.26
+ID= 1107, predicted=364, true=1622, accuracy=0.00, distance = 3.02
+ID= 1108, predicted=298, true=1624, accuracy=0.00, distance = 2.24
+ID= 1109, predicted=718, true=1626, accuracy=0.00, distance = 1.55
+ID= 1110, predicted=112, true=1627, accuracy=0.00, distance = 3.00
+ID= 1111, predicted=1628, true=1628, accuracy=1.00, distance = 9.01
+ID= 1112, predicted=1027, true=1629, accuracy=0.00, distance = 2.85
+ID= 1113, predicted=1517, true=1630, accuracy=0.00, distance = 0.86
+classification accuracy=0.1438
+
+diary off
